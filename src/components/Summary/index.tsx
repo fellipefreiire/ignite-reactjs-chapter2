@@ -8,15 +8,6 @@ import * as S from "./styles";
 
 export function Summary() {
   const { transactions } = useContext(TransactionsContext);
-
-  // const totalDeposit = transactions.reduce((acc, transaction) => {
-  //   if (transaction.type === "deposit") {
-  //     return acc + transaction.amount;
-  //   }
-
-  //   return acc;
-  // }, 0);
-
   const summary = transactions.reduce(
     (acc, transaction) => {
       if (transaction.type === "deposit") {
