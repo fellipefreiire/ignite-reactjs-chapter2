@@ -29,7 +29,6 @@ This certificate above verifies that [Felipe Freire][profile-url] successfully c
 [![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
-[![Udemy][udemy-shield]][udemy-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
