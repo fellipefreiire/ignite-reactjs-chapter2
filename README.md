@@ -7,6 +7,23 @@
 ![CSS3][css3-shield]
 ![Sass][sass-shield]
 
+## About course
+
+This project was part of the Ignite course "React path" by Rocketseat.
+
+- [Course][course-url]
+- [Instructor][instructor-url]
+- [Certificate][certificate-url]
+- [Profile][profile-url]
+
+### Certificate
+
+This certificate above verifies that [Felipe Freire][profile-url] successfully completed the course [Ignite ReactJS Path][course-url] on 07/12/2021 as taught by [Diego Fernandes][instructor-url] on Rocketseat. The certificate indicates the entire course was completed as validated by the student.
+
+<p align="center">
+  <img src="certificate.png">
+</p>
+
 ## Contact
 
 [![Gmail][gmail-shield]][gmail-url]
@@ -18,6 +35,11 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- ALIES README -->
+
+[course-url]: https://www.rocketseat.com.br/ignite
+[profile-url]: https://app.rocketseat.com.br/me/felipe-freire-alves-de-oliveira-07572
+[instructor-url]: https://app.rocketseat.com.br/me/diego3g
+[certificate-url]: https://app.rocketseat.com.br/api/certificates/pdf/802c697d-e1f9-4d15-abb3-340be2b014b2
 
 <!-- CONTACT SHIELDS -->
 
